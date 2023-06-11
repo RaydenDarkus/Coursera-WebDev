@@ -4,5 +4,5 @@ h1 {
 
 nav {
     height: 100px;
-    background-color: #d52a2a;
+    background-color: #d52a2a !important;
 }
